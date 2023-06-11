@@ -8,7 +8,7 @@ __version__ = "0.0.0"
 
 REPO_NAME = "NLP_Text_Summarizer"
 AUTHOR_USER_NAME = "Kaushikascoder-26"
-SRC_REPO = "nlptextSummarizer"
+SRC_REPO = "NLP_Text_Summarizer"
 AUTHOR_EMAIL = "kaushik.sheet.26@gmail.com"
 
 
