@@ -3,6 +3,7 @@ from NLP_Text_Summarizer.components.data_ingestion import DataIngestion
 from NLP_Text_Summarizer.logging import logger
 
 
+
 class DataIngestionTrainingPipeline:
     def __init__(self):
         pass
