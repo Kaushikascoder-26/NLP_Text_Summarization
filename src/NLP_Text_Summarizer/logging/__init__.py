@@ -20,4 +20,4 @@ logging.basicConfig(
     ]
 )
 
-logger = logging.getLogger("textSummarizerLogger")
+logger = logging.getLogger("NLP_Text_Summarizer_Logger")

@@ -7,7 +7,7 @@ with open("README.md", "r", encoding="utf-8") as f:
 __version__ = "0.0.0"
 
 REPO_NAME = "NLP_Text_Summarizer"
-AUTHOR_USER_NAME = "Kaushik"
+AUTHOR_USER_NAME = "Kaushikascoder-26"
 SRC_REPO = "nlptextSummarizer"
 AUTHOR_EMAIL = "kaushik.sheet.26@gmail.com"
 
